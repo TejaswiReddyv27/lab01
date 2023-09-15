@@ -1,0 +1,6 @@
+
+7	Wajeb Gharibi	Associate Teaching Professor	Science and Engineering	About	https://sse.umkc.edu//profiles/gharibi-wajeb.html	Mathematical cybernetics, machine learning, cy...
+8	Joan Gladbach	Instructor	Science and Engineering	About	https://sse.umkc.edu//profiles/gladbach-joan.html	Not available
+9	Joan Gladbach (She/Her)	Instructor	Science and Engineering	About	https://sse.umkc.edu//profiles/joan-gladbach.html	Computer Science and Information Technology
+10	Yijie Han	Associate Professor	Science and Engineering	About	https://sse.umkc.edu//profiles/han-yijie.html	Not available
+11	Brian Hare (he/him)	Teaching Professor	Science and Engineering	About	https://sse.umkc.edu//profiles/hare-brian.html	Computer Science and Information Technology
